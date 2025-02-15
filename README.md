@@ -1,3 +1,4 @@
+origin: https://github.com/kurong00/GameProgramBooks
 # GameProgram E-Book
 
 E-books collected according to [Milo Yip's](https://github.com/miloyip/game-programmer) learning path
